@@ -1,0 +1,8 @@
+.container {
+    margin: 2em;
+    padding: 1em;
+    background-color: var(--clr-bg2);
+    box-shadow: rgba(140, 140, 140, 0.2) 0px 0px 0px 1px;
+    border-radius: 8px;
+    max-width: 730px;
+}

@@ -1,0 +1,50 @@
+#root {
+    content: "";
+}
+
+.banner {
+    background-image: url("https://media.licdn.com/dms/image/D4D16AQHDw0k98vsrVQ/profile-displaybackgroundimage-shrink_350_1400/0/1699909984342?e=1706140800&v=beta&t=-8Vha7DIqXZ0RAJ0oAtqaTHZmqjENOkfwp7OJF-oiOI");
+    background-clip: border-box;
+    background-size: contain;
+    margin: -1em;
+    min-height: 10em;
+    max-height: 300px;
+    max-width: 1200px;
+    border-radius: 8px 8px 0 0;
+}
+
+.avatar-container {
+    margin-top: -70px;
+    margin-left: 25px;
+}
+
+.avatar,
+.otw {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.otw {
+    /* height: 200px;
+    width: 200px;
+    border-radius: 50%; */
+    /* margin-top: -100%; */
+    margin-left: -150px;
+    /* position: relative; */
+}
+
+h1 {
+    font-size: 24px;
+    line-height: 30px;
+    text-align: start;
+    color: #000000;
+    font-weight: 600;
+}
+
+.text-body {
+    font-size: 16px;
+    line-height: 20px;
+    text-align: start;
+    font-weight: 300;
+}
